@@ -60,7 +60,8 @@
     "through2": "3.0.2",
     "uuid": "8.1.0",
     "vuvuzela": "1.0.3",
-    "whatwg-fetch": "2.0.4"
+    "whatwg-fetch": "2.0.4",
+    "websql": "1.0.0"
   },
   "devDependencies": {
     "argsarray": "0.0.1",
